@@ -1,3 +1,11 @@
 # harjotus
 branch/merge harjoitus
-Eetun branch
+Eetun muutos
+
+IntoKanto muutos
+Ronin muutos
+Henryn muutokset
+
+IntoKanto muutos
+Ronin muutos
+Henryn muutokset
